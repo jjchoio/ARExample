@@ -18,5 +18,10 @@ Scenario:
 
 
 Next Step:
+
+Code
 Implement a virtual joystick to control the Rocket to fly around the scanned physical space.
 If crashed, the Rocket will explode.
+
+Art
+Add fire effect when launching
